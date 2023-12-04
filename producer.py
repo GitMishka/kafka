@@ -1,3 +1,4 @@
+import kafka
 from kafka import KafkaProducer
 import json
 
